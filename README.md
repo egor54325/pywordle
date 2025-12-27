@@ -1,2 +1,3 @@
 # pywordle
-this is a project for MshP
+Это проэкт для МШП, это как CLI версия Wordle.
+Все слова на русском языке
